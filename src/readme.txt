@@ -1,4 +1,4 @@
-=== WP shot video multi platform ===
+=== shot video multi platform ===
 Contributors: FélixRedondo
 Donate link:  https://github.com/FelixRedo
 Tags: video, multimedia
@@ -15,6 +15,7 @@ General purpose shortcodes for WordPress.
 == Description ==
 Show the indicated video of the desired platform. You can specify the size of the video (width and height) and the border (frameborder).
 The video platforms are: Youtube (Y), Vimeo (V) and Wistia (W).
+
 
 
 ## Shortcodes

@@ -1,6 +1,6 @@
 <?php 
 /*
- * Plugin Name:       wp-shot-video-multi-platform
+ * Plugin Name:       shot-video-multi-platform
  * Plugin URI:        https://github.com/FelixRedo
  * Description:       Inserts a responsive video iframe from different platforms. 
  * Version:           1.0.0
@@ -14,18 +14,18 @@
  */
 
  /*
-wp-shot-video-multi-platform is free software: you can redistribute it and/or modify
+shot-video-multi-platform is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
 
-wp-shot-video-multi-platform is distributed in the hope that it will be useful,
+shot-video-multi-platform is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with wp-shot-video-multi-platform. If not, see https://www.gnu.org/licenses/gpl-3.0.html.
+along with shot-video-multi-platform. If not, see https://www.gnu.org/licenses/gpl-3.0.html.
 */
 
 add_shortcode( "svmp",
