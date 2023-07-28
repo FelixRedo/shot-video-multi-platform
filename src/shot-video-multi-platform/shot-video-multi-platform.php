@@ -1,7 +1,7 @@
 <?php 
 /*
  * Plugin Name:       shot-video-multi-platform
- * Plugin URI:        https://github.com/FelixRedo
+ * Plugin URI:        https://github.com/FelixRedo/shot-video-multi-platform
  * Description:       Inserts a responsive video iframe from different platforms. 
  * Version:           1.0.0
  * Requires at least: 5.2
